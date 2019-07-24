@@ -7,7 +7,7 @@ Use the **RUN.sh** or **RUN.bat** script to run this program. Here's how:
 ```bash
 sh RUN.sh GameStarter
 ```
-If you want to create your own levels you can execute:
+If you want to create your own levels you want to execute:
 ```
 sh RUN.sh DesignerStarter
 ```
